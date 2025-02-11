@@ -2,7 +2,10 @@
 Blood Cell Revolution: Unveiling 11 Distinct Types with ‘Naturalize’ Augmentation (Published paper)
 
 
-Cite This Work:
+## References
+
+```bibtex
+
 @Article{a16120562,
 AUTHOR = {Abou Ali, Mohamad and Dornaika, Fadi and Arganda-Carreras, Ignacio},
 TITLE = {Blood Cell Revolution: Unveiling 11 Distinct Types with ‘Naturalize’ Augmentation},

@@ -1,6 +1,27 @@
-# Blood Cell Revolution
-Blood Cell Revolution: Unveiling 11 Distinct Types with ‘Naturalize’ Augmentation (Published paper)
+# Blood Cell Revolution: Unveiling 11 Distinct Types with ‘Naturalize’ Augmentation
+This paper introduces the **‘Naturalize’** technique, improving the classification of 11 blood cell types through deep learning and image processing. This approach enhances diagnostic accuracy in hematology. For more details, check the [full paper](https://www.mdpi.com/1999-4893/16/12/562).
 
+
+## Algorithm 1: Naturalize Algorithm
+
+1. **Imports and Paths**  
+   Import required libraries and define file paths.
+   
+2. **Load SAM_model and PBC Dataset**  
+   - Mount Google Drive  
+   - Load peripheral blood smear images from the PBC dataset  
+   - Load SAM model
+
+3. **Segment PBC Dataset Using SAM**  
+   - Segment images into "RBCs, WBCs, PLTs"  
+   - Save segmented images to Google Drive
+
+4. **Collision Function**  
+   - Function to check for image collisions
+
+5. **Composite Image Creation**  
+   - For each image, load background, add WBCs, RBCs, and avoid collisions  
+   - Save the composite image
 
 
 

@@ -34,7 +34,7 @@ This step demonstrates peripheral blood cell (PBC) images that contain multiple 
    - Save the composite image
 
 ## Step 1: Segmentation
-The first step of the **Naturalize** algorithm involves segmenting peripheral blood smear images into distinct cell types: RBCs, WBCs, and PLTs. This is done using the SAM model.
+The first step of the **Naturalize** algorithm involves segmenting peripheral blood smear images into distinct cell types: RBCs, WBCs, and PLTs. This is done using the Segment Anything Model (SAM) model developed by Meta AI.
 
 ![Segmentation](https://www.mdpi.com/algorithms/algorithms-16-00562/article_deploy/html/images/algorithms-16-00562-g005-550.jpg)
 

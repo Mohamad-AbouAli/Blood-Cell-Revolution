@@ -4,6 +4,10 @@ This paper introduces the **‘Naturalize’** technique, improving the classifi
 ## Transition from 8-Class PBC to 11-Class PBC
 This transition expands the classification of published peripheral blood cells (PBC) dataset from 8 to 11 distinct types, improving the granularity and accuracy of cell identification.
 
+<p align="center">
+  <img src="https://www.mdpi.com/algorithms/algorithms-16-00562/article_deploy/html/images/algorithms-16-00562-g003-550.jpg" alt="Transition to 11-Class PBC">
+</p>
+
 ![Transition to 11-Class PBC](https://www.mdpi.com/algorithms/algorithms-16-00562/article_deploy/html/images/algorithms-16-00562-g003-550.jpg)
 
 

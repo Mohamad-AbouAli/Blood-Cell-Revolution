@@ -100,5 +100,3 @@ Abou Ali, M., Dornaika, F., & Arganda-Carreras, I. (2023). *Blood Cell Revolutio
 
 ---
 
-This **README.md** file provides an **organized, structured, and visually appealing** way to document your research. 🚀  
-Let me know if you need any modifications! 😊  

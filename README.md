@@ -14,7 +14,7 @@ This transition expands the classification of published peripheral blood cells (
 This step demonstrates peripheral blood cell (PBC) images that contain multiple classes. The image showcases the complexity of classifying different blood cell types in a single image.
 
 <p align="center">
-  <img src="(https://www.mdpi.com/algorithms/algorithms-16-00562/article_deploy/html/images/algorithms-16-00562-g004-550.jpg)" alt="PBC Images">
+  <img src="https://www.mdpi.com/algorithms/algorithms-16-00562/article_deploy/html/images/algorithms-16-00562-g004-550.jpg" alt="PBC Images">
 </p>
 
 ## Algorithm: Naturalize Algorithm

@@ -1,12 +1,18 @@
 # Blood Cell Revolution: Unveiling 11 Distinct Types with ‘Naturalize’ Augmentation
 This paper introduces the **‘Naturalize’** technique, improving the classification of 11 blood cell types through deep learning and image processing. This approach enhances diagnostic accuracy in hematology. For more details, check the [full paper](https://www.mdpi.com/1999-4893/16/12/562).
 
+## Transition from 8-Class PBC to 11-Class PBC
+This transition expands the classification of peripheral blood cells (PBC) from 8 to 11 distinct types, improving the granularity and accuracy of cell identification.
+
+![Transition to 11-Class PBC](https://www.mdpi.com/algorithms/algorithms-16-00562/article_deploy/html/images/algorithms-16-00562-g003-550.jpg)
+
+
 ## PBC Images Containing More Than One Class
 This step demonstrates peripheral blood cell (PBC) images that contain multiple classes. The image showcases the complexity of classifying different blood cell types in a single image.
 
 ![PBC Images](https://www.mdpi.com/algorithms/algorithms-16-00562/article_deploy/html/images/algorithms-16-00562-g004-550.jpg)
 
-## Algorithm 1: Naturalize Algorithm
+## Algorithm: Naturalize Algorithm
 
 1. **Imports and Paths**  
    Import required libraries and define file paths.

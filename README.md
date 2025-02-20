@@ -66,12 +66,12 @@ The first step in **Naturalize** involves segmenting blood smear images into RBC
 
 
 ---
-### **Blood Cells: Segmented By SAM Model*
+### **Blood Cells: Segmented By SAM Model**
 
 The images contains sample of blood cell images segmented by SAM model
 
 <p align="center">
-  <img src="11-Class Blood Cells.png" alt="11 Blood Cell Types" width="600">
+  <img src="11-Class Blood Cells.png" alt="11 Blood Cell Types" width="800">
 </p>
 
 ---
